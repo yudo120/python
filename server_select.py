@@ -11,7 +11,8 @@ print("Socket created successfully.")
 
 # Defining port and host
 port = 5555
-host = '25.37.63.151'
+#Remember to add a IP address
+host = ''
 
 # Binding to the host and port
 sock.bind((host, port))
